@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000228
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྫོགས་ཆེན་ཨ་ཏི་ཟབ་དོན་སྙིང་པོའི་ཐོག་མར་དགེ་བ་ལམ་སྟེགས་སྔོན་འགྲོའི་ཆོས་སྤྱོད་ཟུར་དུ་ཕྱུང་པ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེའམ་གཏེར་བདག་གླིང་པ། མི་འགྱུར་དཔལ་སྒྲོན།
-  sku: SHE-RTD-022
   layers:
   - book_title
   - author
   - yigchung
+  id: SHE-RTD-022
 web_metadata:
   title:
     en: A Selection of the Prayer Texts for the Preliminary Practices of the Profound
